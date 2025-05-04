@@ -27,4 +27,8 @@ DATA ANALYSIS
 AS WE CAN SEE AFTER THE ABOVE ANALYSIS THE UNITED STATES HAS THE MOST NUMBER OF JOBS FOR ALL THREE TOP JOB CATEGORIES IN 2024.
 
 ![Salary](https://github.com/user-attachments/assets/0e01a9ec-1f69-4f64-9113-45eeedbc6635)
+![Country Wise](https://github.com/user-attachments/assets/249c516c-d863-43cd-acd2-30bb848b5a1f)
+![Uploading Roles.png…]()
+
+
 
