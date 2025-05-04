@@ -28,7 +28,8 @@ AS WE CAN SEE AFTER THE ABOVE ANALYSIS THE UNITED STATES HAS THE MOST NUMBER OF 
 
 ![Salary](https://github.com/user-attachments/assets/0e01a9ec-1f69-4f64-9113-45eeedbc6635)
 ![Country Wise](https://github.com/user-attachments/assets/249c516c-d863-43cd-acd2-30bb848b5a1f)
-![Uploading Roles.png…]()
+![Roles](https://github.com/user-attachments/assets/1f46abcc-a4f2-4504-b86b-6e3d869ccf8b)
+
 
 
 
